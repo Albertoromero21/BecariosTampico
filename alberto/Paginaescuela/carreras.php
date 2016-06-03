@@ -1,0 +1,42 @@
+<head>
+<style type="text/css">
+body{background-image:url("http://descargarfondosdepantalla.com/wp-content/uploads/2016/04/fondos-de-pantalla-verdes-simple.jpg")}
+</style>
+</head>
+<body > 
+
+         <table title="Banner" border="0">
+            <tr>
+               <td><img src="https://www.upalt.edu.mx/images/Logo_UPALT4.jpg"></td>
+            </tr>
+         </table>
+      </td>
+   </tr>
+   <tr height="200px">
+      <td><P>
+         <table title="Menu" border="0" width="200px">
+            <tr><td style="text-align:center;">Menu</td></tr>
+			<tr><td><li><a href=ejemplo.php </a>Inicio</li></td></tr>
+            <tr><td><li><a href=carreras.php </a>Carreras</li></td></tr>
+            <tr><td><li><a href=instalaciones.php </a>Instalaciones</li></td></tr>
+            <tr><td><li><a href=contactos.php </a>Contactos</li></td></tr>
+         </table>
+      </td>
+  </tr>
+           <tr><h1><p style="text-align:center;">Carreras</h1></tr>
+	    
+            <td><center><img src="https://www.upalt.edu.mx/images/stories/Banners/Oferta/BotITIm.png" height="100px" width="300px"></center></td>
+			
+			<br><br><p style="text-align:center;">El ingeniero en Tecnologías de la Información es un profesionista con la capacidad para analizar, diseñar, desarrollar e implementar sistemas basados en el uso de computadoras. Aplica sus conocimientos para dar solución a necesidades diversas en aplicaciones comerciales, industriales, técnicas y de negocios en general. Tiene la capacidad para administrar redes, centros de cómputo, utilizar software de aplicación y realizar investigación relacionada con las tecnologías de la información, que permitan la mejora en la productividad y toma de decisiones en los sectores público y privado.</p>
+            <br><br><br><br><td><center><img src="https://www.upalt.edu.mx/images/stories/Banners/Oferta/BotIEm.png" height="100px" width="300px"></center></td>
+			
+			<br><br><p style="text-align:center;"<br>El ingeniero en energía está orientado al diseño, optimización, instalación,operación y mantenimiento de sistemas energéticos basados en fuentesrenovables y no renovables, así como al uso eficiente de  energía. Esteprograma educativo se creó en función de la creciente demanda de energía enla región y de la necesidad de buscar fuentes alternas, más limpias,eficientes pero sobre todo económicas y renovables que serán desarrolladasmediante la investigación que es una parte importante en el programaacadémico ya que dotará a los alumnos de buenas bases para continuar conestudios de posgrado.
+Con todas estas competencias y aunado a la experiencia en su campo, elingeniero en energía es capaz de realizar consultorías, asesorías ygestionar sus recomendaciones durante su intervención en el sectorproductivo y de servicios.</p>
+            <br><br><br><br><td><center><img src="https://www.upalt.edu.mx/images/stories/Banners/Oferta/BotIIm.png" height="100px" width="300px"></center></td>
+			
+			<tr><td><br>El ingeniero Industrial egresado de la Universidad Politécnica de Altamira es un profesionista ético y humanístico; con sólida formación basada en competencias que le brindan un pensamiento crítico; comprometido con el desarrollo social, ecológico, económico, científico y tecnológico del país; líder en su ámbito de trabajo, y con la capacidad de comunicarse en una segunda lengua y de desempeñarse  efectivamente  en la  gestión de optimización de los recursos humanos, materiales, administrativos,  financieros  y sustentables en los sistemas productivos, manteniendo siempre un alto sentido de ética y responsabilidad con una actitud positiva y emprendedora  que les permita participar en el mejoramiento del desarrollo económico de nuestro estado y de  nuestra nación. Conjuntamente, posee habilidades comunicativas tanto orales como escritas que le permiten interactuar adecuadamente en su entorno. Asimismo, adquiere una actitud de liderazgo y trabajo colaborativo que le permiten proponer soluciones innovadoras a problemas en el sector público y privado.</td></tr>
+            <br><br><br><br><td><center><img src="https://www.upalt.edu.mx/images/stories/Banners/Oferta/BotIETm.png" height="100px" width="300px"></center></td>
+			
+			<tr><td><br>El Profesional Asociado egresado del Programa Académico de Ingeniería en Electrónica y Telecomunicaciones es competente para operar y dar soporte técnico a sistemas electrónicos y de telecomunicaciones. Su actitud es creativa, innovadora, proactiva, de pensamiento crítico, de autodisciplina y colaboración, fundamentada en los valores de honestidad, lealtad, responsabilidad, perseverancia, ética profesional y social.
+ </td></tr>
+</body>
