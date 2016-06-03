@@ -23,8 +23,8 @@ body{background-image:url("http://descargarfondosdepantalla.com/wp-content/uploa
 	  
          <table title="Menu" border="0" width="200px">
             <tr><td style="text-align:center;">Menu</td></tr>
-			<tr><td><li><a href=ejemplo.php </a>Inicio</li></td></tr>
-            <tr><td><li><a href=carreras.php </a>Carreras</li></td></tr>
+			<tr><td><li><a href=ejemplo.html </a>Inicio</li></td></tr>
+            <tr><td><li><a href=carreras.html </a>Carreras</li></td></tr>
             <tr><td><li><a href=instalaciones.php </a>Instalaciones</li></td></tr>
             <tr><td><li><a href=contactos.php </a>Contactos</li></td></tr>
          </table>
